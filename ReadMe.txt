@@ -3,7 +3,7 @@ A Survey of  Shape Matches Based on Deep Learning NetWork
 
 本实验将三维模型输入到自编码器函数映射网络（AutoEncoder Functional Maps Network,AEFMNet）中，经过训练测试评估得到最终模型匹配结果，并用MATLAB对其处理得到可视化结果。
 
-源代码：https://github.com/maning666/maning_advanced_computer_visual/tree/master
+源代码：https://github.com/maning666/homework
 配置环境：
 CUDA 10
 TensorFlow 1.13
