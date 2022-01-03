@@ -14,7 +14,7 @@ Python 3.7
 
 数据预处理：
 选取SURREAL数据集中前5000个三角网格模型进行数据预处理，利用解压后的MATLAB_Tool文件夹的.m文件处理数据集，
-重新网格化将包含顶点信息和面片信息的off模型转换成对应几何特征信息的mat类型的数据用于训练，保存在<null/spectral>文件夹里。
+重新网格化将包含顶点信息和面片信息的off模型转换成对应几何特征信息的mat类型的数据用于训练，保存在<null/FAUST_r/spectral>文件夹里。
 
 训练：
 运行python train.py，结果保存在<results>文件夹。
